@@ -105,13 +105,13 @@ author = "authors"
 
 [[params.social]]
 name = "Github"
-icon = "fa fa-2x fa-github"
+icon = "fa-brands fa-github fa-2x"
 weight = 1
 url = "https://github.com/jdahm/"
 
 [[params.social]]
 name = "LinkedIn"
-icon = "fa fa-2x fa-linkedin"
+icon = "fa-brands fa-linkedin fa-2x"
 weight = 2
 url = "https://www.linkedin.com/in/johann-dahm/"
 
@@ -123,7 +123,7 @@ url = "https://www.linkedin.com/in/johann-dahm/"
 
 [[params.social]]
 name = "Mastodon"
-icon = "fa fa-2x fa-mastodon"
+icon = "fa-brands fa-mastodon fa-2x"
 weight = 3
 url = "https://techhub.social/@jdahm"
 
@@ -135,7 +135,7 @@ url = "https://techhub.social/@jdahm"
 
 [[params.social]]
 name = "Instagram"
-icon = "fa fa-2x fa-instagram"
+icon = "fa-brands fa-instagram fa-2x"
 weight = 4
 url = "https://instagram.com/jdahm"
 
