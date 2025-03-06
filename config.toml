@@ -3,13 +3,15 @@ baseURL = "http://www.jdahm.me"
 theme = "coder"
 languageCode = "en"
 defaultContentLanguage = "en"
-paginate = 20
 pygmentsStyle = "bw"
 pygmentsCodeFences = true
 pygmentsCodeFencesGuessSyntax = true
 enableEmoji = true
 # Enable Disqus comments
 # disqusShortname = "yourdiscussshortname"
+
+[markup.highlight]
+style = "github-dark"
 
 [params]
 author = "Johann Dahm"
